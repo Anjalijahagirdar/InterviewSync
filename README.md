@@ -1,7 +1,7 @@
 # Project Name: InterviewSync 🚀
 
 ## Overview
-**InterviewSync** is a project with the primary goal of revolutionizing technical interviews. It achieves this goal by offering a unified platform that seamlessly integrates video interviews, coding collaboration, and code compilation, along with several key features:
+**InterviewSync** is a project with the primary goal of revolutionizing technical interviews. It achieves this goal by offering a unified platform that seamlessly integrates video interviews, coding collaboration, and code compilation, along with several key features.
 
 ## Key Features 🌟
 1. **Unified Platform:** InterviewSync provides a single platform for conducting technical interviews, combining video interviews, collaborative coding sessions, and code compilation.
@@ -17,6 +17,12 @@
 6. **Channelized Communication 📡:** Facilitate organized and efficient communication between interviewers and candidates.
 
 7. **Security 🔒:** Prioritize the security of the entire interview process, including code sharing and data transfer.
+
+## Project Team and Mentor 🧑‍💻👥
+- **Daksh Kitukale:** [GitHub Profile](https://github.com/daksh-kitukale)
+- **Anjali Jahagirdar:** [GitHub Profile](https://github.com/anjali-jahagirdar)
+- **Anil Kumar Sahu:** [GitHub Profile](https://github.com/anil-sahu)
+- **Under the Supervision of Prof. Garima Joshi:** [Mentor's Profile](https://github.com/garima-joshi)
 
 ## Project Status 🛠️
 The project is currently a work in progress and is being actively developed. We aim to complete it very soon.
