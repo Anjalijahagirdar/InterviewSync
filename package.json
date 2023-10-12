@@ -1,7 +1,7 @@
 {
-  "name": "WebRTC-signalling-server",
+  "name": "InternetSync",
   "version": "1.0.0",
-  "description": "An as simple as it gets WebRTC example with signalling server",
+  "description": "An as simple as it gets WebRTC server",
   "main": "index.js",
   "scripts": {
     "start": "node server/server.js",
@@ -14,8 +14,8 @@
   "keywords": [
     "webrtc"
   ],
-  "author": "Saurav Panda",
-  "license": "MIT",
+  "author": "Anjali",
+  "license": "",
   "bugs": {
     "url": ""
   },
